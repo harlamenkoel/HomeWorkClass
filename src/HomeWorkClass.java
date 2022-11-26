@@ -17,7 +17,7 @@ public class HomeWorkClass {
         System.out.println();
         System.out.println(dawnsHereAreQuiet);
 
-        System.out.println(tolstoy == tolstoy2);
+
         System.out.println(tolstoy.equals(tolstoy2));
 
         System.out.println(tolstoy.hashCode());
